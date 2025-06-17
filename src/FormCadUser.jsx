@@ -6,7 +6,7 @@ function FormCadUser() {
   const [nome, setNome] = useState('');
   const [email, setEmail] = useState('');
 
-  console.log(email);
+  
 
   return (
     <form>
